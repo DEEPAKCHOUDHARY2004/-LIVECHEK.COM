@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/LIVECHEK.COM/static/css/main.9520a688.chunk.css",
+    "main.js": "/LIVECHEK.COM/static/js/main.a1b3857f.chunk.js",
+    "main.js.map": "/LIVECHEK.COM/static/js/main.a1b3857f.chunk.js.map",
+    "runtime-main.js": "/LIVECHEK.COM/static/js/runtime-main.93089f1f.js",
+    "runtime-main.js.map": "/LIVECHEK.COM/static/js/runtime-main.93089f1f.js.map",
+    "static/js/2.de2a57f2.chunk.js": "/LIVECHEK.COM/static/js/2.de2a57f2.chunk.js",
+    "static/js/2.de2a57f2.chunk.js.map": "/LIVECHEK.COM/static/js/2.de2a57f2.chunk.js.map",
+    "index.html": "/LIVECHEK.COM/index.html",
+    "static/css/main.9520a688.chunk.css.map": "/LIVECHEK.COM/static/css/main.9520a688.chunk.css.map",
+    "static/js/2.de2a57f2.chunk.js.LICENSE.txt": "/LIVECHEK.COM/static/js/2.de2a57f2.chunk.js.LICENSE.txt",
+    "static/media/118465388_3200892113292830_3272796302556928576_n.jpeg": "/LIVECHEK.COM/static/media/118465388_3200892113292830_3272796302556928576_n.31103a35.jpeg",
+    "static/media/Agent Inspection Panel .gif": "/LIVECHEK.COM/static/media/Agent Inspection Panel .d142e24c.gif",
+    "static/media/LIVECHEK PIT -(Hindi) .gif": "/LIVECHEK.COM/static/media/LIVECHEK PIT -(Hindi) .d26f0bb5.gif",
+    "static/media/LiveChek   PIT -(English)    .gif": "/LIVECHEK.COM/static/media/LiveChek   PIT -(English)    .d4ad4238.gif",
+    "static/media/LiveChek - How to Create Request from the Portal .gif": "/LIVECHEK.COM/static/media/LiveChek - How to Create Request from the Portal .1c4af533.gif",
+    "static/media/LiveChek - How to create the App user .gif": "/LIVECHEK.COM/static/media/LiveChek - How to create the App user .eee36153.gif",
+    "static/media/LiveChek - VCS Portal.gif": "/LIVECHEK.COM/static/media/LiveChek - VCS Portal.90588621.gif",
+    "static/media/LiveChek AIP Demo-(Hindi) .gif": "/LIVECHEK.COM/static/media/LiveChek AIP Demo-(Hindi) .9f155d7b.gif",
+    "static/media/LiveChek AIP Demo.gif": "/LIVECHEK.COM/static/media/LiveChek AIP Demo.01ac9946.gif",
+    "static/media/LiveChek AIP Kannada Car.gif": "/LIVECHEK.COM/static/media/LiveChek AIP Kannada Car.c91f60db.gif",
+    "static/media/LiveChek AIP Malayalam Car .gif": "/LIVECHEK.COM/static/media/LiveChek AIP Malayalam Car .4f616110.gif",
+    "static/media/LiveChek AIP Marathi Car.gif": "/LIVECHEK.COM/static/media/LiveChek AIP Marathi Car.736c298d.gif",
+    "static/media/LiveChek AIP Tamil Car.gif": "/LIVECHEK.COM/static/media/LiveChek AIP Tamil Car.b63b6a98.gif",
+    "static/media/LiveChek AIP Telugu Car.gif": "/LIVECHEK.COM/static/media/LiveChek AIP Telugu Car.22aacd94.gif",
+    "static/media/LiveChek PIT - Pre-Inspection Toolkit for Client to do the pre-inspection of vehicle .gif": "/LIVECHEK.COM/static/media/LiveChek PIT - Pre-Inspection Toolkit for Client to do the pre-inspection of vehicle .663648a7.gif",
+    "static/media/LiveChek Pre-inspection App - English.gif": "/LIVECHEK.COM/static/media/LiveChek Pre-inspection App - English.50769f0b.gif",
+    "static/media/fiture general.png": "/LIVECHEK.COM/static/media/fiture general.4ecea994.png",
+    "static/media/font-awesome.min.css": "/LIVECHEK.COM/static/media/fontawesome-webfont.fb685a7c.woff2",
+    "static/media/bootstrap.min.css": "/LIVECHEK.COM/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/iffco-tokio-logo-english.png": "/LIVECHEK.COM/static/media/iffco-tokio-logo-english.99453061.png",
+    "static/media/navi_svg_logo.svg": "/LIVECHEK.COM/static/media/navi_svg_logo.37bf2ac6.svg",
+    "static/media/style.css": "/LIVECHEK.COM/static/media/testimonial-bg.5400fa6a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93089f1f.js",
+    "static/js/2.de2a57f2.chunk.js",
+    "static/css/main.9520a688.chunk.css",
+    "static/js/main.a1b3857f.chunk.js"
+  ]
+}
