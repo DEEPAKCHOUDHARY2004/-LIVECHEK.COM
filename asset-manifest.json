@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/-LIVECHEK.COM/static/css/main.f7b3313c.chunk.css",
-    "main.js": "/-LIVECHEK.COM/static/js/main.0dbece61.chunk.js",
-    "main.js.map": "/-LIVECHEK.COM/static/js/main.0dbece61.chunk.js.map",
+    "main.css": "/-LIVECHEK.COM/static/css/main.db4660f3.chunk.css",
+    "main.js": "/-LIVECHEK.COM/static/js/main.4fcf2e4a.chunk.js",
+    "main.js.map": "/-LIVECHEK.COM/static/js/main.4fcf2e4a.chunk.js.map",
     "runtime-main.js": "/-LIVECHEK.COM/static/js/runtime-main.cd1421d2.js",
     "runtime-main.js.map": "/-LIVECHEK.COM/static/js/runtime-main.cd1421d2.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/-LIVECHEK.COM/static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.3746f2e3.chunk.js": "/-LIVECHEK.COM/static/js/2.3746f2e3.chunk.js",
-    "static/js/2.3746f2e3.chunk.js.map": "/-LIVECHEK.COM/static/js/2.3746f2e3.chunk.js.map",
+    "static/js/2.e9a78369.chunk.js": "/-LIVECHEK.COM/static/js/2.e9a78369.chunk.js",
+    "static/js/2.e9a78369.chunk.js.map": "/-LIVECHEK.COM/static/js/2.e9a78369.chunk.js.map",
     "index.html": "/-LIVECHEK.COM/index.html",
     "static/css/2.b57b7cfd.chunk.css.map": "/-LIVECHEK.COM/static/css/2.b57b7cfd.chunk.css.map",
-    "static/css/main.f7b3313c.chunk.css.map": "/-LIVECHEK.COM/static/css/main.f7b3313c.chunk.css.map",
-    "static/js/2.3746f2e3.chunk.js.LICENSE.txt": "/-LIVECHEK.COM/static/js/2.3746f2e3.chunk.js.LICENSE.txt",
+    "static/css/main.db4660f3.chunk.css.map": "/-LIVECHEK.COM/static/css/main.db4660f3.chunk.css.map",
+    "static/js/2.e9a78369.chunk.js.LICENSE.txt": "/-LIVECHEK.COM/static/js/2.e9a78369.chunk.js.LICENSE.txt",
     "static/media/118465388_3200892113292830_3272796302556928576_n.jpeg": "/-LIVECHEK.COM/static/media/118465388_3200892113292830_3272796302556928576_n.31103a35.jpeg",
     "static/media/Agent Inspection Panel (AIP) - How to do the pre-inspection of vehicle.7069000a.mp4": "/-LIVECHEK.COM/static/media/Agent Inspection Panel (AIP) - How to do the pre-inspection of vehicle.7069000a.mp4",
     "static/media/Agent Inspection Panel .gif": "/-LIVECHEK.COM/static/media/Agent Inspection Panel .d142e24c.gif",
@@ -51,8 +51,8 @@
   "entrypoints": [
     "static/js/runtime-main.cd1421d2.js",
     "static/css/2.b57b7cfd.chunk.css",
-    "static/js/2.3746f2e3.chunk.js",
-    "static/css/main.f7b3313c.chunk.css",
-    "static/js/main.0dbece61.chunk.js"
+    "static/js/2.e9a78369.chunk.js",
+    "static/css/main.db4660f3.chunk.css",
+    "static/js/main.4fcf2e4a.chunk.js"
   ]
 }
